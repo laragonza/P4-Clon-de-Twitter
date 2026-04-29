@@ -11,6 +11,8 @@ Práctica 4: clon funcional de Twitter con Next.js consumiendo la API del backen
 ## Instalación y arranque
 
 ```bash
+git clone https://github.com/laragonza/P4-Clon-de-Twitter.git
+cd P4-Clon-de-Twitter
 npm install
 npm run dev
 ```
